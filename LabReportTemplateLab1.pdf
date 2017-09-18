@@ -1,0 +1,85 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Aer E 160 Python Lab 1}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%% WRITE YOUR NAME HERE IN THE AUTHOR SPOT %%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\author{YOUR NAME HERE }
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\newpage
+\section{Problem 1}
+Follow along with the TA as he goes through the ”Hello, World” example. Be
+sure to include your code.
+\subsection{Problem 1 Code}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%% PLace Your Problem 1 Code Here %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Problem 1 Output}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%% Place Your Problem 1 Output Here %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Problem 2}
+Write a program that will convert temperature from Celsius to Fahrenheit and display the end result. Use Equation 1 in your code.
+\begin{equation}
+   T_f=\frac{9}{5}T_c+32
+\end{equation}
+
+\textbf{Challenge Yourself:} Write your program that will convert the temperature both from Fahrenheit to Celsius as well as Celsius to Fahrenheit based on user input. You may use Equation 2 in your code.
+\begin{equation}
+T_c=(T_f-32) * \frac{5}{9}
+\end{equation}
+\subsection{Problem 2 Code}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%% PLACE YOUR PROBLEM 2 CODE HERE %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Problem 2 Output}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% PLACE YOUR PROBLEM 2 OUTPUT HERE %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Problem 3}
+
+Calculate the Area and Volume of a Cylinder and display the result including your units in the print statement. Use Equations 3 and 4 in your code.
+\begin{equation}
+    V={\pi}rh^2
+\end{equation}
+\begin{equation}
+    A=2{\pi}r^2+2h{\pi}r
+\end{equation}
+
+\textbf{Challenge Yourself:} Preform the calculation with user prompted values and units. 
+\subsection{Problem 3 Code}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% PLACE YOUR PROBLEM 3 CODE HERE %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Problem 3 Output}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%% PLACE YOUR PROBLEM 3 OUTPUT HERE %%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Problem 4}
+
+Given the list:
+\\M=[1,3,5,6,8]
+\\Display:
+\begin{enumerate}
+    \item The length of M
+    \item Starting at 1, every other number in the list
+    \item Reverse the list
+\end{enumerate}
+\subsection{Problem 4 Code}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%% PLACE YOUR PROBLEM 4 CODE HERE %%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Problem 4 Output}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+%%%%%%%%% PLACE YOUR PROBLEM 4 OUTPUT HERE %%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
